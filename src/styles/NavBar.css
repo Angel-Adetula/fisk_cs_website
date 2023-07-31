@@ -1,0 +1,28 @@
+.icon{
+    margin-top: -7px;
+    color: #C29108;
+    margin-right: 50px;
+    display: inline;
+}
+
+.navbar{
+    top: 15px;
+    left: 100px;
+    position: fixed;
+    display: flex;
+    overflow: hidden;
+}
+
+
+li a {
+    font-weight: bold;
+    color: #ffff;
+    padding: 14px 28px; 
+    margin-left: 22px;
+    margin-right: 22px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    color: #C29108;
+  }
