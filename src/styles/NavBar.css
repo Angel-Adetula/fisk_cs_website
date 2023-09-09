@@ -21,6 +21,10 @@
     max-width: 100vw;
 }
 
+.nav-elements li :hover{
+  color: #a69976;
+}
+
 .nav-elements ul {
   width: 80vw;
   max-width: 85vw;
